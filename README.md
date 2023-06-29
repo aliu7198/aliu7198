@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=aliu7198&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aliu7198&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliu7198&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliu7198&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

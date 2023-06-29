@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=aliu7198&theme=dark)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliu7198)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

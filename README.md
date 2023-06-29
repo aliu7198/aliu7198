@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliu7198&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%22Sometimes%2C%20The%20Best%20Way%20To%20Solve%20Your%20Own%20Problems%20Is%20To%20Help%20Someone%20Else.%22&author=Uncle%20Iroh)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Sometimes%2C%20The%20Best%20Way%20To%20Solve%20Your%20Own%20Problems%20Is%20To%20Help%20Someone%20Else.&author=Uncle%20Iroh)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

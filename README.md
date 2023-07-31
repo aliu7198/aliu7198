@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 ### 📖 About Me
 
-📍 Budding software engineer currently based in Baltimore, MD - but open to relocate anywhere!
-🌱 I’m currently learning **Web Sockets**
-👯 I’m looking to collaborate on any open-source projects
-💬 Ask me about: climbing, Breath of the Wild, crochet, and my 2 adorable cats!
-⚡ Fun fact: I coached a Chinese martial arts team in my senior year of college!
+- 📍 Budding software engineer currently based in Baltimore, MD - but open to relocate anywhere!
+- 🌱 I’m currently learning **Web Sockets**
+- 👯 I’m looking to collaborate on any open-source projects
+- 💬 Ask me about: climbing, Breath of the Wild, crochet, and my 2 adorable cats!
+- ⚡ Fun fact: I coached a Chinese martial arts team in my senior year of college!
 
 ### 🔧 Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

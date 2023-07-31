@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliu7198&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### 📫 Let's Connect!
-<a href="https://www.linkedin.com/in/adannaliu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="https://www.linkedin.com/in/adannaliu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank" rel="noopener noreferrer"/></a>

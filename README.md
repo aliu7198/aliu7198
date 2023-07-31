@@ -1,4 +1,4 @@
-### Hi, I'm Adanna! 👋💻
+## Hi, I'm Adanna! 👋💻
 
 <!--
 **aliu7198/aliu7198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,19 +6,23 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=aliu7198&theme=tokyonight-duo)](https://git.io/streak-stats)
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliu7198&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Sometimes%2C%20the%20best%20way%20to%20solve%20your%20own%20problems%20is%20to%20help%20someone%20else.&author=Uncle%20Iroh)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### 📖 About Me
+
+- 📍 Budding software engineer currently based in Baltimore, MD - but open to relocate anywhere!
+- 🌱 I’m currently learning **Web Sockets**
+- 👯 I’m looking to collaborate on any open-source projects
+- 💬 Ask me about climbing, Breath of the Wild, crochet, and my 2 adorable cats!
+- ⚡ Fun fact: I coached a Chinese martial arts team in my senior year of college!
 
 ### 🔧 Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,3 +41,10 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=aliu7198&theme=tokyonight-duo)](https://git.io/streak-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliu7198&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### 📫 Let's Connect!
+<a href="https://www.linkedin.com/in/adannaliu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="LinkedIn Badge"/></a>

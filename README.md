@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 📖 About Me
 
-- 📍 Budding software engineer currently based in Baltimore, MD - but open to relocate anywhere!
+- 📍 Software engineer currently based in Charlotte, NC
 - 🌱 I’m currently learning **C#**
 - 👯 I’m looking to collaborate on any open-source projects
 - 💬 Ask me about: Rock Climbing, Breath of the Wild, Crochet, and my 2 adorable cats!
